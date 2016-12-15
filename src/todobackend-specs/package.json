@@ -1,0 +1,11 @@
+{
+  "name": "todobackend-specs",
+  "version": "0.1.0",
+  "description": "Todobackend Acceptance Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}

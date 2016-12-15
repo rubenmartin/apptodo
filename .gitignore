@@ -1,3 +1,4 @@
+src/todobackend-specs/node_modules
 venv
 *.pyc
 *.sqlite3
